@@ -1,3 +1,2 @@
 Nome: Vinícius
-Sobrenome: Gomes Ucceli
 Email: vinicius.ucceli@uni9.edu.br
